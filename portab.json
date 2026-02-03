@@ -1,0 +1,2095 @@
+[
+  {
+    "CDO": "003",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "AC",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "004",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "RO",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "006",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "010",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "014",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "017",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "018",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "019",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "020",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "022",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "023",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "024",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "026",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "028",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "029",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "030",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "032",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "033",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "034",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "036",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "RR",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "037",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "PA",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "038",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "AP",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "039",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "040",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "043",
+    "Operadora": "Sercomtel Celular",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55343
+  },
+  {
+    "CDO": "044",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "045",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "046",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "050",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "054",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "056",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "TO",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "057",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "058",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "RO",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "059",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "AC",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "060",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "063",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "064",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "066",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "068",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "069",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "TO",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "070",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "072",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "073",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "074",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "075",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "076",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "077",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "078",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "080",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "087",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "088",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "089",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "113",
+    "Operadora": "Sisteer SP",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55303
+  },
+  {
+    "CDO": "140",
+    "Operadora": "Terapar",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55304
+  },
+  {
+    "CDO": "325",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "348",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "349",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "411",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "421",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "427",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "430",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "441",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "447",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "451",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "452",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "453",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "454",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "455",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "456",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "457",
+    "Operadora": "Vivo",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55320
+  },
+  {
+    "CDO": "461",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "462",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "463",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "TO",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "465",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "467",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "468",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "AC",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "469",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "RO",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "471",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "479",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "490",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "AP",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "491",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "PA",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "492",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "493",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "494",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "PA",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "495",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "RR",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "496",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "AP",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "497",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "RR",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "498",
+    "Operadora": "Tim",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55341
+  },
+  {
+    "CDO": "499",
+    "Operadora": "Claro SMP",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55321
+  },
+  {
+    "CDO": "658",
+    "Operadora": "BBS Options",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55349
+  },
+  {
+    "CDO": "692",
+    "Operadora": "Virgin",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55305
+  },
+  {
+    "CDO": "823",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "824",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "825",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "826",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "827",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "828",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "837",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "838",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "839",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "TO",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "840",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "843",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "844",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "845",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "AC",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "846",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "RO",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "847",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "849",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "850",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "853",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "854",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "855",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "856",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "857",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "858",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "PA",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "859",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "860",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "RR",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "893",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "AP",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "894",
+    "Operadora": "Claro NXT",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55351
+  },
+  {
+    "CDO": "901",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "902",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "903",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "904",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "954",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "955",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "A03",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A33",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A34",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A35",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A42",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "AC",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A43",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A44",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A45",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "AP",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A46",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A47",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A48",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A49",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A50",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A51",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A52",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A53",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "PA",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A54",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A55",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A56",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A57",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A58",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A59",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "RO",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A60",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "RR",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A61",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A62",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A63",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "A64",
+    "Operadora": "Surf Telecom",
+    "Rede": "SMP",
+    "UF": "TO",
+    "RNP/CSP": 55306
+  },
+  {
+    "CDO": "B26",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "B27",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "B65",
+    "Operadora": "Ligue Telecom",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55308
+  },
+  {
+    "CDO": "B97",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "B98",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "B99",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "C42",
+    "Operadora": "Vecto Mobile",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55310
+  },
+  {
+    "CDO": "C45",
+    "Operadora": "Ligue Telecom",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55308
+  },
+  {
+    "CDO": "C52",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "C53",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "C54",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "C60",
+    "Operadora": "Vecto Mobile",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55310
+  },
+  {
+    "CDO": "D38",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "D53",
+    "Operadora": "Emnify Brasil",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55313
+  },
+  {
+    "CDO": "E13",
+    "Operadora": "Peak Telecom",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55316
+  },
+  {
+    "CDO": "E20",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E40",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E41",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E42",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E43",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E44",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E45",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E46",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E48",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E50",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E52",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E54",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "TO",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E56",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E81",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E85",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "E99",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "F01",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "F02",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "F03",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "F04",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "F11",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "F13",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "F42",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "PA",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "F55",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "F56",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "TO",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "F97",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "F98",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "G58",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "G59",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "G61",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "G62",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "G63",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "RR",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "G64",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "G70",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "G74",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "G76",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "G98",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "G99",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "H17",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "H18",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "H19",
+    "Operadora": "Cubic Telecom",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55367
+  },
+  {
+    "CDO": "H30",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "H38",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "H57",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "H58",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "H59",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "H63",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "H67",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "H74",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "H75",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "H79",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "H91",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "AC",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "H96",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "H97",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "AC",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "H98",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "AP",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "I15",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "I46",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "I48",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "I53",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "RO",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "I79",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "PA",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "I82",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "I90",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "RO",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "I92",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "RR",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "J06",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "J17",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "J24",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "J30",
+    "Operadora": "America Net",
+    "Rede": "SMP",
+    "UF": "TO",
+    "RNP/CSP": 55307
+  },
+  {
+    "CDO": "J32",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "J55",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "J71",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "J72",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "J73",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "J74",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "J75",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "J76",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "J77",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "J78",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "J79",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "J91",
+    "Operadora": "Neko Serviços",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55360
+  },
+  {
+    "CDO": "K12",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "K13",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "L05",
+    "Operadora": "Unifique",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55309
+  },
+  {
+    "CDO": "L06",
+    "Operadora": "Unifique",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55309
+  },
+  {
+    "CDO": "L07",
+    "Operadora": "Unifique",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55309
+  },
+  {
+    "CDO": "L48",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "RO",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "L51",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "PA",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "L53",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "AC",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "M11",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M12",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M13",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "SC",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M14",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M15",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "DF",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M16",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "TO",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M17",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "BA",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M18",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "PE",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M19",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "SE",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M20",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "PB",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M21",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "AL",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M22",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "RN",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M23",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "CE",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M65",
+    "Operadora": "Arqia",
+    "Rede": "SMP",
+    "UF": "AP",
+    "RNP/CSP": 55301
+  },
+  {
+    "CDO": "M71",
+    "Operadora": "1nce",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55364
+  },
+  {
+    "CDO": "M87",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "M88",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "AC",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M89",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "AM",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M90",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "RR",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M91",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "PA",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M92",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "MA",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "M93",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "N06",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "N07",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "N08",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "GO",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "N09",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "N19",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "AP",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "N20",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "PI",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "N40",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "O03",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "RR",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "O06",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "O11",
+    "Operadora": "Telecall",
+    "Rede": "SMP",
+    "UF": "AP",
+    "RNP/CSP": 55315
+  },
+  {
+    "CDO": "O52",
+    "Operadora": "Transatel Brasil LTDA",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55348
+  },
+  {
+    "CDO": "O58",
+    "Operadora": "Algar",
+    "Rede": "SMP",
+    "UF": "RO",
+    "RNP/CSP": 55312
+  },
+  {
+    "CDO": "O63",
+    "Operadora": "NLT",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55311
+  },
+  {
+    "CDO": "O64",
+    "Operadora": "Bras Nuvem",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55300
+  },
+  {
+    "CDO": "P13",
+    "Operadora": "Airnity",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55356
+  },
+  {
+    "CDO": "P56",
+    "Operadora": "Unifique",
+    "Rede": "SMP",
+    "UF": "SP",
+    "RNP/CSP": 55309
+  },
+  {
+    "CDO": "P72",
+    "Operadora": "Iez Telecom",
+    "Rede": "SMP",
+    "UF": "RJ",
+    "RNP/CSP": 55370
+  },
+  {
+    "CDO": "P73",
+    "Operadora": "Iez Telecom",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55370
+  },
+  {
+    "CDO": "P82",
+    "Operadora": "Connect Iot Solutions LTDA",
+    "Rede": "SMP",
+    "UF": "RS",
+    "RNP/CSP": 55388
+  },
+  {
+    "CDO": "Q39",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "MS",
+    "RNP/CSP": 55322
+  },
+  {
+    "CDO": "R59",
+    "Operadora": "Brisanet",
+    "Rede": "SMP",
+    "UF": "MT",
+    "RNP/CSP": "55322"
+  },
+  {
+    "CDO": "R73",
+    "Operadora": "IEZ! TELECOM",
+    "Rede": "SMP",
+    "UF": "ES",
+    "RNP/CSP": "55370"
+  },
+  {
+    "CDO": "S04",
+    "Operadora": "AIRNITY BRASIL TELECOMUNICACOES",
+    "Rede": "SMP",
+    "UF": "PR",
+    "RNP/CSP": 55356
+  },
+  {
+    "CDO": "S08",
+    "Operadora": "AIRNITY BRASIL TELECOMUNICACOES",
+    "Rede": "SMP",
+    "UF": "MG",
+    "RNP/CSP": 55356
+  }
+]
