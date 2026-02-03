@@ -120,7 +120,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <div class="container">
 <img class="img" src="Geomago.jpeg" alt="Geomago">
-<h1>The Mage Portab</h1>
+<h1>Geomago do Portab</h1>
 
 <form method="POST">
     <label>NTL</label>
