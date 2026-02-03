@@ -119,7 +119,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
 
 <div class="container">
-<h1>Gerador de Portabilidade</h1>
+<img class="img" src="Geomago.jpeg" alt="Geomago">
+<h1>The Mage Portab</h1>
 
 <form method="POST">
     <label>NTL</label>
